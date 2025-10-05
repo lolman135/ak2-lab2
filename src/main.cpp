@@ -14,6 +14,7 @@ int main(){
     std::cout << fmt::format("{:.2f} + {:.2f} = {:.2f}", a, b, calc.add(a, b)) << std::endl;
     std::cout << fmt::format("{:.2f} - {:.2f} = {:.2f}", a, b, calc.sub(a, b)) << std::endl;
     std::cout << fmt::format("{:.2f} * {:.2f} = {:.2f}", a, b, calc.mul(a, b)) << std::endl;
+    
     try
     {
         std::cout << fmt::format("{:.2f} / {:.2f} = {:.2f}", a, b, calc.div(a, b)) << std::endl;
