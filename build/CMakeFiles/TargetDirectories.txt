@@ -1,0 +1,4 @@
+/home/lolman15/Documents/comp-arch/lab2/build/CMakeFiles/calculator.dir
+/home/lolman15/Documents/comp-arch/lab2/build/CMakeFiles/calculator_app.dir
+/home/lolman15/Documents/comp-arch/lab2/build/CMakeFiles/edit_cache.dir
+/home/lolman15/Documents/comp-arch/lab2/build/CMakeFiles/rebuild_cache.dir
